@@ -12,9 +12,6 @@ This is a Python docstring, we can use reStructuredText syntax here!
     get_random_ingredients(kind=["cheeses"])
 """
 
-__version__ = "0.1.0"
-
-
 class InvalidKindError(Exception):
     """Raised if the kind is invalid."""
 
