@@ -6,4 +6,3 @@ API
    :members:
 
    pkg_name.lumache
-   pkg_name.model
