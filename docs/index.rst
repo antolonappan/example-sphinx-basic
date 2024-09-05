@@ -33,4 +33,4 @@ This section contains the Jupyter notebooks.
    :maxdepth: 2
    :caption: Contents:
 
-   notebooks/example.ipynb
+   ./notebooks/example.ipynb
