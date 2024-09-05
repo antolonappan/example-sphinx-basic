@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   pkg_name
+   pkg_name.lumache
