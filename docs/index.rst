@@ -31,6 +31,6 @@ This section contains the Jupyter notebooks.
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :caption: Contents:
 
-   ../notebooks/*.ipynb
+   ../notebooks/example
