@@ -6,4 +6,4 @@ API
    :members:
 
    pkg_name.lumache
-   pkg_name.instrument.Fake
+   pkg_name.instrument.model.Fake
