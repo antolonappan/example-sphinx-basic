@@ -23,3 +23,14 @@ Contents
    Home <self>
    usage
    api
+
+Notebook Examples
+=================
+
+This section contains the Jupyter notebooks.
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   ../notebooks/*.ipynb
