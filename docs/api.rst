@@ -1,13 +1,6 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
-   :nosignatures:
-
-   pkg_name.lumache
-   pkg_name.model
-   pkg_name.inst.exp
 
 .. automodule:: pkg_name.lumache
    :members:
